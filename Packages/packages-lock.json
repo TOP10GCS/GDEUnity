@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.unity.2d.sprite": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
     "com.unity.burst": {
       "version": "1.8.28",
       "depth": 2,
@@ -214,7 +220,7 @@
     },
     "com.unity.ugui": {
       "version": "2.0.0",
-      "depth": 1,
+      "depth": 0,
       "source": "builtin",
       "dependencies": {
         "com.unity.modules.ui": "1.0.0",
@@ -312,12 +318,20 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.oculus": {
+<<<<<<< HEAD
       "version": "4.5.4",
       "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.xr.management": "4.4.0",
         "com.unity.modules.androidjni": "1.0.0"
+=======
+      "version": "4.5.2",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.xr.management": "4.4.0"
+>>>>>>> 43a95cbefb50ddb1ccff7a952ce23cc7d04a953a
       },
       "url": "https://packages.unity.com"
     },
