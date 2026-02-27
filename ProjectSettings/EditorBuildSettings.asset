@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/UI.unity
     guid: 8c65749d8cb88f3439c0b327253dd20d
   - enabled: 1
-    path: Assets/Scenes/TheatherVR.unity
+    path: Assets/Scenes/TheatherVRBackup.unity
     guid: 67e7b81915714d14aa17030e2a8f74e7
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d163ece27d43d3946bb66919f2c20822, type: 2}
