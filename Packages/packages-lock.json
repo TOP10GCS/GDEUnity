@@ -317,24 +317,6 @@
       },
       "url": "https://packages.unity.com"
     },
-    "com.unity.xr.oculus": {
-<<<<<<< HEAD
-      "version": "4.5.4",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.xr.management": "4.4.0",
-        "com.unity.modules.androidjni": "1.0.0"
-=======
-      "version": "4.5.2",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.xr.management": "4.4.0"
->>>>>>> 43a95cbefb50ddb1ccff7a952ce23cc7d04a953a
-      },
-      "url": "https://packages.unity.com"
-    },
     "com.unity.xr.openxr": {
       "version": "1.16.1",
       "depth": 0,
