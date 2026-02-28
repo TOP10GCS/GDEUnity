@@ -8,4 +8,14 @@ public class UIManagerCustom : MonoBehaviour
     {
         SceneManager.LoadScene(1);
     }
+
+    public void GotoOffice()
+    {
+        SceneManager.LoadScene("OfficeVR");
+    }
+
+    public void GotoTheather()
+    {
+        SceneManager.LoadScene("TheatherVR");
+    }
 }
